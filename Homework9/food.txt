@@ -1,0 +1,10 @@
+ Monk Fama - fish, 3
+ Rondeel - fish, 3.5
+ Rondeel - chicken, 3.5
+ Rondeel - soup, 2
+ Muna - meat, 4
+ China House - chicken, 4.5
+ Oma Kohvik - soup, 3.2
+ Classic Cafe - salad, 3.5
+ KFC - meat, 5.5
+ WokkIN - fish, 4

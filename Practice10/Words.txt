@@ -1,0 +1,5 @@
+mother: mama
+father: papa
+me: ya
+you: ti
+
